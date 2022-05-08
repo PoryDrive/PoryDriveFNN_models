@@ -14,3 +14,7 @@ In [train2.py](https://github.com/PoryDrive/PoryDriveFNN/blob/main/train2.py) I 
 `ReLU` shows potential in `train2.py` networks but it's lacking something, the networks tend to become stalkers and not "collectors" which is a rare but notable outcome that can occur, a network will sometimes train to only follow the porygon and never _(extremely rarily)_ make contact with it.
 
 `SoftSign` had a collection rate of roughly half that of `tanh` and `selu`, still I think it could be worth investigation.
+
+#### noteable models
+- [SELU2_tested_from_1gb_dataset/HIGH/nesterov_16_32_32_shuf/](SELU2_tested_from_1gb_dataset/HIGH/nesterov_16_32_32_shuf/)
+- [/home/g/Desktop/PoryDriveFNN_models/Various_tested_from_1gb_dataset/HIGH/tanh_nesterov_16_32_32_shuf/](/home/g/Desktop/PoryDriveFNN_models/Various_tested_from_1gb_dataset/HIGH/tanh_nesterov_16_32_32_shuf/)
