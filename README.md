@@ -5,7 +5,7 @@ All these are trained with the default Tensorflow Keras weight initialiser [Glor
 
 #### notes
 - `tanh` and `selu` seem to perform best.
-- `softsign` and `relu` seems to have potential.
+- `softsign` and `relu` seem to have potential.
 
 In [train.py](https://github.com/PoryDrive/PoryDriveFNN/blob/main/train.py) I went for a large amount of units per layer with only a few layers, 4 max. This didn't seem to scale well as the performance of larger networks did seem to get a little better in certain conditions but only marginally so.
 
