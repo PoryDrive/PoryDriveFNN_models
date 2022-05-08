@@ -18,3 +18,4 @@ In [train2.py](https://github.com/PoryDrive/PoryDriveFNN/blob/main/train2.py) I 
 #### noteable models
 - [selu_nesterov_16_32_32_shuf](SELU2_tested_from_1gb_dataset/HIGH/nesterov_16_32_32_shuf/)
 - [tanh_nesterov_16_32_32_shuf](Various_tested_from_1gb_dataset/HIGH/tanh_nesterov_16_32_32_shuf/)
+- [adam_original](original/ADAM)
