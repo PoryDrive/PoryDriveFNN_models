@@ -1,7 +1,7 @@
 # PoryDriveFNN_models
 PoryDriveFNN trained models from 1GB and 2GB datasets.
 
-All these are trained with the default Tensorflow Keras weight initialiser [GlorotNormal](https://www.tensorflow.org/api_docs/python/tf/keras/initializers/GlorotNormal).
+All these are trained with the default Tensorflow Keras weight initialiser [GlorotNormal](https://www.tensorflow.org/api_docs/python/tf/keras/initializers/GlorotNormal) and [MeanSquaredError loss](https://keras.io/api/losses/regression_losses/#meansquarederror-class).
 
 #### notes
 - `tanh` and `selu` seem to perform best.
