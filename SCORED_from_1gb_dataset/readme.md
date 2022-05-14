@@ -1,5 +1,5 @@
-These are trained from a scored dataset of 0.9 - 1.0.
-That means the rounds scored anything between 0.85 - 1.0.
+These are trained from a scored dataset of 0.9 - 1.0.<br>
+That means the rounds scored anything between 0.85 - 1.0.<br>
 The dataset was ~1.1GB the > 0.95 part of the dataset was ~20MB.
 
 #### times
