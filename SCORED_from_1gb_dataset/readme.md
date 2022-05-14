@@ -2,7 +2,7 @@ These are trained from a scored dataset of 0.9 - 1.0.
 That means the rounds scored anything between 0.85 - 1.0.
 The dataset was ~1.1GB the > 0.95 part of the dataset was ~20MB.
 
-## times
+#### times
 - nesterov_4_384_32_shuf = 15 in 20 mins
 - nesterov_4_869_32_shuf = 32 in 34 mins
 - tanh_nesterov_8_16_32_shuf = 22 in 20 mins
